@@ -29,7 +29,7 @@ The notebook walks through the following, with simulations and visualizations at
 ### Install and run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/quantum-random-walks.git
+git clone https://github.com/kdere001/quantum-random-walks.git
 cd quantum-random-walks
 pip install -r requirements.txt
 jupyter notebook Quantum_Random_Walk_Full_Notebook.ipynb
