@@ -1,5 +1,7 @@
 # Quantum Random Walks: A Guided Tour
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kdere001/quantum-random-walks/blob/main/Quantum_Random_Walk_Full_Notebook.ipynb)
+
 > From coin flips to coherent superposition — and why it matters for algorithms.
 
 An interactive Jupyter notebook that builds a discrete-time quantum walk on the 1-D integer lattice from scratch, compares it to the classical random walk, and explores the transition between them.
