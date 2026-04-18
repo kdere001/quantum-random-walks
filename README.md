@@ -4,7 +4,7 @@
 
 An interactive Jupyter notebook that builds a discrete-time quantum walk on the 1-D integer lattice from scratch, compares it to the classical random walk, and explores the transition between them.
 
-![Classical vs Quantum Walk](figures/comparison.png)
+![Classical vs Quantum Walk](comparison.png)
 
 ## What's inside
 
